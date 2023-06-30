@@ -1,4 +1,4 @@
-# 创建和嵌套组件和给组件添加样式
+# 使用JSX编写标签
 - https://react.docschina.org/learn
 - 我们之前实现HelloWorld和实现组件嵌套的方法就是使用的JSX语法
 - JSX比HTML语法更加严格必须使用成对的标签
